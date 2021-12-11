@@ -1,3 +1,6 @@
+# url
+# https://programmers.co.kr/learn/courses/30/lessons/12906
+
 # Function
 def solution(arr):
     output1 = arr[:-1]
