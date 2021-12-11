@@ -1,4 +1,4 @@
-#function
+# Function
 def solution(arr):
     output1 = arr[:-1]
     output2 = arr[1:]
@@ -8,5 +8,8 @@ def solution(arr):
             answer.append(val)
     return answer
 
-#test
+# Test
 print(solution(arr=[4,4,4,3,3]))
+
+# Output
+# [4,3]
